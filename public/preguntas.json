@@ -1,6 +1,644 @@
 [
     {
         "capitulo": 1,
+        "pregunta": "¿Qué implica subestimar el coeficiente de fricción en un tramo?",
+        "opciones": [
+            {
+                "texto": "a) Mejor distribución de presión",
+                "correcta": false
+            },
+            {
+                "texto": "b) Error en reparto de caudal \\textbf{()}",
+                "correcta": true
+            },
+            {
+                "texto": "c) Mayor eficiencia",
+                "correcta": false
+            },
+            {
+                "texto": "d) Flujo más uniforme",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
+        "pregunta": "¿Qué ocurre si la longitud se duplica en una rama?",
+        "opciones": [
+            {
+                "texto": "a) Caudal se duplica",
+                "correcta": false
+            },
+            {
+                "texto": "b) Pérdida de carga se duplica \\textbf{()}",
+                "correcta": true
+            },
+            {
+                "texto": "c) Presión se iguala",
+                "correcta": false
+            },
+            {
+                "texto": "d) No afecta el flujo",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
+        "pregunta": "¿Qué expresa la ecuación de continuidad?",
+        "opciones": [
+            {
+                "texto": "a) La masa no se crea ni destruye \\textbf{()}",
+                "correcta": true
+            },
+            {
+                "texto": "b) El caudal es constante solo en redes cerradas",
+                "correcta": false
+            },
+            {
+                "texto": "c) La energía se conserva",
+                "correcta": false
+            },
+            {
+                "texto": "d) Las pérdidas son iguales",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
+        "pregunta": "¿Qué debe hacerse si se cambia la topología de una red?",
+        "opciones": [
+            {
+                "texto": "a) Nada, el flujo se adapta",
+                "correcta": false
+            },
+            {
+                "texto": "b) Recalcular todos los caudales desde cero \\textbf{()}",
+                "correcta": true
+            },
+            {
+                "texto": "c) Aumentar presiones",
+                "correcta": false
+            },
+            {
+                "texto": "d) Reducir diámetro",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
+        "pregunta": "¿Cuál es el criterio principal para detener las iteraciones en Hardy-Cross?",
+        "opciones": [
+            {
+                "texto": "a) Cuando ΔQ = 0.5",
+                "correcta": false
+            },
+            {
+                "texto": "b) Al cabo de 10 iteraciones",
+                "correcta": false
+            },
+            {
+                "texto": "c) Cuando |∑hf| < 0.01 m \\textbf{()}",
+                "correcta": true
+            },
+            {
+                "texto": "d) Cuando los caudales son iguales en todas las ramas",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
+        "pregunta": "¿Qué variable afecta más la pérdida de carga?",
+        "opciones": [
+            {
+                "texto": "a) Temperatura",
+                "correcta": false
+            },
+            {
+                "texto": "b) Diámetro (por ser elevado a una potencia alta) \\textbf{()}",
+                "correcta": true
+            },
+            {
+                "texto": "c) Tipo de válvula",
+                "correcta": false
+            },
+            {
+                "texto": "d) Longitud",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
+        "pregunta": "¿Qué implica tener un caudal negativo en el resultado final?",
+        "opciones": [
+            {
+                "texto": "a) Error en unidades",
+                "correcta": false
+            },
+            {
+                "texto": "b) Sentido real del flujo es opuesto al asumido \\textbf{()}",
+                "correcta": true
+            },
+            {
+                "texto": "c) Tubo obstruido",
+                "correcta": false
+            },
+            {
+                "texto": "d) Flujo laminar",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
+        "pregunta": "¿Cuál es la fórmula de Hazen-Williams para hf?",
+        "opciones": [
+            {
+                "texto": "a) hf = f·(L/D)·(V²/2g)",
+                "correcta": false
+            },
+            {
+                "texto": "b) hf = K·Q²/D⁵",
+                "correcta": false
+            },
+            {
+                "texto": "c) hf = 10.67·(L/C^1.85)·(Q^1.85/D^4.87) \\textbf{()}",
+                "correcta": true
+            },
+            {
+                "texto": "d) hf = ρ·g·z",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
+        "pregunta": "¿Para qué se usa el número de Reynolds en tuberías?",
+        "opciones": [
+            {
+                "texto": "a) Medir velocidad máxima",
+                "correcta": false
+            },
+            {
+                "texto": "b) Calcular presión estática",
+                "correcta": false
+            },
+            {
+                "texto": "c) Determinar tipo de flujo \\textbf{()}",
+                "correcta": true
+            },
+            {
+                "texto": "d) Controlar cavitación",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
+        "pregunta": "¿Cuál es el principal efecto de aumentar el diámetro de una tubería?",
+        "opciones": [
+            {
+                "texto": "a) Aumenta la velocidad del flujo",
+                "correcta": false
+            },
+            {
+                "texto": "b) Incrementa la pérdida de carga",
+                "correcta": false
+            },
+            {
+                "texto": "c) Reduce el número de Reynolds",
+                "correcta": false
+            },
+            {
+                "texto": "d) Reduce significativamente las pérdidas de carga \\textbf{()}",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
+        "pregunta": "¿Qué pasa si en una red cerrada se omite una pérdida menor significativa?",
+        "opciones": [
+            {
+                "texto": "a) Nada, se compensa con la presión restante",
+                "correcta": false
+            },
+            {
+                "texto": "b) Se incrementa el caudal",
+                "correcta": false
+            },
+            {
+                "texto": "c) Se reduce el tiempo de llenado",
+                "correcta": false
+            },
+            {
+                "texto": "d) Se desbalancea el sistema y puede provocar errores \\textbf{()}",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
+        "pregunta": "¿Cuál es el significado físico de que la suma de pérdidas en un lazo sea cero?",
+        "opciones": [
+            {
+                "texto": "a) No hay flujo",
+                "correcta": false
+            },
+            {
+                "texto": "b) La red está mal diseñada",
+                "correcta": false
+            },
+            {
+                "texto": "c) Hay fuga de presión",
+                "correcta": false
+            },
+            {
+                "texto": "d) El lazo está en equilibrio energético \\textbf{()}",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
+        "pregunta": "¿Qué sucede si dos ramas en paralelo tienen diferente longitud pero igual diámetro y rugosidad?",
+        "opciones": [
+            {
+                "texto": "a) Transportan el mismo caudal",
+                "correcta": false
+            },
+            {
+                "texto": "b) La más corta transporta más caudal \\textbf{()}",
+                "correcta": true
+            },
+            {
+                "texto": "c) La más larga transporta más caudal",
+                "correcta": false
+            },
+            {
+                "texto": "d) Ninguna transporta caudal",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
+        "pregunta": "¿Cómo afecta un accesorio mal calculado (con K mayor) a una rama?",
+        "opciones": [
+            {
+                "texto": "a) Aumenta su caudal",
+                "correcta": false
+            },
+            {
+                "texto": "b) Disminuye su pérdida menor",
+                "correcta": false
+            },
+            {
+                "texto": "c) Disminuye su caudal por mayor resistencia \\textbf{()}",
+                "correcta": true
+            },
+            {
+                "texto": "d) No tiene efecto",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
+        "pregunta": "¿Qué expresa el término \\( \\frac{V^2}{2g} \\) en hidráulica?",
+        "opciones": [
+            {
+                "texto": "a) Altura de presión estática",
+                "correcta": false
+            },
+            {
+                "texto": "b) Altura geodésica",
+                "correcta": false
+            },
+            {
+                "texto": "c) Altura piezométrica",
+                "correcta": false
+            },
+            {
+                "texto": "d) Altura de velocidad \\textbf{()}",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
+        "pregunta": "¿Qué significa un número de Reynolds entre 2300 y 4000?",
+        "opciones": [
+            {
+                "texto": "a) Flujo laminar",
+                "correcta": false
+            },
+            {
+                "texto": "b) Flujo turbulento",
+                "correcta": false
+            },
+            {
+                "texto": "c) Zona de transición \\textbf{()}",
+                "correcta": true
+            },
+            {
+                "texto": "d) No hay flujo",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
+        "pregunta": "¿Cuál es el riesgo principal en asumir mal el sentido del flujo en redes cerradas?",
+        "opciones": [
+            {
+                "texto": "a) Incremento de presión en nodos",
+                "correcta": false
+            },
+            {
+                "texto": "b) Cálculo erróneo de pérdida total",
+                "correcta": false
+            },
+            {
+                "texto": "c) Ninguno, se corrige con el signo del resultado \\textbf{()}",
+                "correcta": true
+            },
+            {
+                "texto": "d) Colapso estructural del tubo",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
+        "pregunta": "¿Qué unidad se utiliza comúnmente para medir caudal en sistemas hidráulicos urbanos?",
+        "opciones": [
+            {
+                "texto": "a) m³/h",
+                "correcta": false
+            },
+            {
+                "texto": "b) L/hab·día",
+                "correcta": false
+            },
+            {
+                "texto": "c) kg/s",
+                "correcta": false
+            },
+            {
+                "texto": "d) L/s \\textbf{()}",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
+        "pregunta": "¿Qué ocurre si no se consideran adecuadamente los factores de mayoración en diseño de caudales?",
+        "opciones": [
+            {
+                "texto": "a) La red será más robusta",
+                "correcta": false
+            },
+            {
+                "texto": "b) La red tendrá pérdidas innecesarias",
+                "correcta": false
+            },
+            {
+                "texto": "c) Se sobredimensiona sin riesgo",
+                "correcta": false
+            },
+            {
+                "texto": "d) Podrán faltar presiones o caudal en condiciones reales \\textbf{()}",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
+        "pregunta": "¿Qué valor numérico puede tomar un buen factor de mayoración diario (Kmáx.d)?",
+        "opciones": [
+            {
+                "texto": "a) 0.85",
+                "correcta": false
+            },
+            {
+                "texto": "b) 1.2 a 1.6 \\textbf{()}",
+                "correcta": true
+            },
+            {
+                "texto": "c) 2.5",
+                "correcta": false
+            },
+            {
+                "texto": "d) 0.45",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
+        "pregunta": "¿Para qué se usa el caudal máximo horario?",
+        "opciones": [
+            {
+                "texto": "a) Dimensionar fuentes de captación",
+                "correcta": false
+            },
+            {
+                "texto": "b) Dimensionar redes de distribución durante la hora pico \\textbf{()}",
+                "correcta": true
+            },
+            {
+                "texto": "c) Calcular pérdidas menores",
+                "correcta": false
+            },
+            {
+                "texto": "d) Diseñar tanques de almacenamiento",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
+        "pregunta": "¿Qué sucede si en un análisis Hardy-Cross se ignoran las pérdidas menores?",
+        "opciones": [
+            {
+                "texto": "a) El resultado mejora",
+                "correcta": false
+            },
+            {
+                "texto": "b) No se afecta nada",
+                "correcta": false
+            },
+            {
+                "texto": "c) Se infraestima el desequilibrio del lazo \\textbf{()}",
+                "correcta": true
+            },
+            {
+                "texto": "d) Se sobreestima el caudal",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
+        "pregunta": "¿Qué pasa si dos tuberías tienen igual pérdida pero diferente caudal?",
+        "opciones": [
+            {
+                "texto": "a) Hay un error de cálculo",
+                "correcta": false
+            },
+            {
+                "texto": "b) El flujo no es paralelo",
+                "correcta": false
+            },
+            {
+                "texto": "c) El flujo es laminar en una y turbulento en otra",
+                "correcta": false
+            },
+            {
+                "texto": "d) Las longitudes o rugosidades son diferentes \\textbf{()}",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
+        "pregunta": "¿Qué relación existe entre el diámetro y la velocidad en flujo constante?",
+        "opciones": [
+            {
+                "texto": "a) Mayor diámetro, menor velocidad \\textbf{()}",
+                "correcta": true
+            },
+            {
+                "texto": "b) Mayor diámetro, mayor velocidad",
+                "correcta": false
+            },
+            {
+                "texto": "c) Velocidad constante",
+                "correcta": false
+            },
+            {
+                "texto": "d) Velocidad depende solo del caudal",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
+        "pregunta": "¿Qué implica un lazo con \\( \\sum h_f \\neq 0 \\) después de varias iteraciones?",
+        "opciones": [
+            {
+                "texto": "a) Flujo uniforme",
+                "correcta": false
+            },
+            {
+                "texto": "b) Falta más iteración o hay error \\textbf{()}",
+                "correcta": true
+            },
+            {
+                "texto": "c) Red balanceada",
+                "correcta": false
+            },
+            {
+                "texto": "d) No hay flujo",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
+        "pregunta": "¿Cuál es la fórmula del caudal a partir de la velocidad y el área?",
+        "opciones": [
+            {
+                "texto": "a) Q = A/V",
+                "correcta": false
+            },
+            {
+                "texto": "b) Q = AV \\textbf{()}",
+                "correcta": true
+            },
+            {
+                "texto": "c) Q = V/A",
+                "correcta": false
+            },
+            {
+                "texto": "d) Q = D · V",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
+        "pregunta": "¿En qué caso es útil el método Hardy-Cross?",
+        "opciones": [
+            {
+                "texto": "a) Tuberías en serie",
+                "correcta": false
+            },
+            {
+                "texto": "b) Redes con válvulas abiertas únicamente",
+                "correcta": false
+            },
+            {
+                "texto": "c) Redes complejas con múltiples lazos \\textbf{()}",
+                "correcta": true
+            },
+            {
+                "texto": "d) Cálculo de pérdidas menores",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
+        "pregunta": "¿Cuál es el uso del caudal medio diario?",
+        "opciones": [
+            {
+                "texto": "a) Dimensionar redes pico",
+                "correcta": false
+            },
+            {
+                "texto": "b) Diseñar presiones mínimas",
+                "correcta": false
+            },
+            {
+                "texto": "c) Estimación básica del sistema \\textbf{()}",
+                "correcta": true
+            },
+            {
+                "texto": "d) Evaluar pérdida menor",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
+        "pregunta": "¿Cuál afirmación es CORRECTA sobre Qm, Qmáx diario y Qmáx horario?",
+        "opciones": [
+            {
+                "texto": "a) El Qmáx diario se usa solo para redes de distribución",
+                "correcta": false
+            },
+            {
+                "texto": "b) El Qmáx horario dimensiona líneas de captación",
+                "correcta": false
+            },
+            {
+                "texto": "c) El Qmedio se usa para caudal pico",
+                "correcta": false
+            },
+            {
+                "texto": "d) El Qmáx diario se usa para captación y conducción principal \\textbf{()}",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
         "pregunta": "¿Qué define a un sistema de tuberías en paralelo?",
         "opciones": [
             {
@@ -12,7 +650,7 @@
                 "correcta": false
             },
             {
-                "texto": "c) Comparten nodos de entrada y salida, con presión igual",
+                "texto": "c) Comparten nodos de entrada y salida, con presión igual \\textbf{()}",
                 "correcta": true
             },
             {
@@ -38,1085 +676,469 @@
                 "correcta": false
             },
             {
-                "texto": "d) Sistema con lazos interconectados que permiten flujo en varios sentidos",
+                "texto": "d) Sistema con lazos interconectados que permiten flujo en varios sentidos \\textbf{()}",
                 "correcta": true
             }
         ]
     },
     {
         "capitulo": 1,
-        "pregunta": "¿Qué condición se cumple entre entrada y salida en paralelo?",
+        "pregunta": "¿Cuál es el principal efecto de aumentar el diámetro de una tubería?",
         "opciones": [
             {
-                "texto": "a) Misma velocidad",
+                "texto": "a) Aumenta la velocidad del flujo",
                 "correcta": false
             },
             {
-                "texto": "b) Misma viscosidad",
+                "texto": "b) Incrementa la pérdida de carga",
                 "correcta": false
             },
             {
-                "texto": "c) Misma pérdida de carga",
-                "correcta": true
-            },
-            {
-                "texto": "d) Mismo número de Reynolds",
-                "correcta": false
-            }
-        ]
-    },
-    {
-        "capitulo": 1,
-        "pregunta": "¿Qué relación de caudales se cumple?",
-        "opciones": [
-            {
-                "texto": "a) Q1 = Q2 = Q3",
+                "texto": "c) Reduce el número de Reynolds",
                 "correcta": false
             },
             {
-                "texto": "b) Q_total = Q1 + Q2 + Q3 + ...",
-                "correcta": true
-            },
-            {
-                "texto": "c) Todas las ramas tienen igual caudal",
-                "correcta": false
-            },
-            {
-                "texto": "d) Caudal total se divide solo por 2",
-                "correcta": false
-            }
-        ]
-    },
-    {
-        "capitulo": 1,
-        "pregunta": "¿Cuál es la ecuación de Darcy-Weisbach?",
-        "opciones": [
-            {
-                "texto": "a) hf = kLQ",
-                "correcta": false
-            },
-            {
-                "texto": "b) hf = f·(L/D)·(V²/2g)",
-                "correcta": true
-            },
-            {
-                "texto": "c) hf = Q/A",
-                "correcta": false
-            },
-            {
-                "texto": "d) hf = ρgh",
-                "correcta": false
-            }
-        ]
-    },
-    {
-        "capitulo": 1,
-        "pregunta": "¿Qué variable NO afecta directamente el hf?",
-        "opciones": [
-            {
-                "texto": "a) Diámetro",
-                "correcta": false
-            },
-            {
-                "texto": "b) Longitud",
-                "correcta": false
-            },
-            {
-                "texto": "c) Color del tubo",
-                "correcta": true
-            },
-            {
-                "texto": "d) Velocidad",
-                "correcta": false
-            }
-        ]
-    },
-    {
-        "capitulo": 1,
-        "pregunta": "¿Qué representa el factor de fricción f?",
-        "opciones": [
-            {
-                "texto": "a) Resistencia térmica",
-                "correcta": false
-            },
-            {
-                "texto": "b) Relación entre presión y caudal",
-                "correcta": false
-            },
-            {
-                "texto": "c) Resistencia al flujo debido a fricción interna",
-                "correcta": true
-            },
-            {
-                "texto": "d) Área hidráulica",
-                "correcta": false
-            }
-        ]
-    },
-    {
-        "capitulo": 1,
-        "pregunta": "¿Qué número clasifica el régimen de flujo?",
-        "opciones": [
-            {
-                "texto": "a) Nusselt",
-                "correcta": false
-            },
-            {
-                "texto": "b) Prandtl",
-                "correcta": false
-            },
-            {
-                "texto": "c) Reynolds",
-                "correcta": true
-            },
-            {
-                "texto": "d) Euler",
-                "correcta": false
-            }
-        ]
-    },
-    {
-        "capitulo": 1,
-        "pregunta": "¿Cuál método no sirve para calcular f?",
-        "opciones": [
-            {
-                "texto": "a) Colebrook",
-                "correcta": false
-            },
-            {
-                "texto": "b) Swamee-Jain",
-                "correcta": false
-            },
-            {
-                "texto": "c) Hazen-Williams",
-                "correcta": true
-            },
-            {
-                "texto": "d) Moody",
-                "correcta": false
-            }
-        ]
-    },
-    {
-        "capitulo": 1,
-        "pregunta": "¿Qué condición se iguala en ramas paralelas?",
-        "opciones": [
-            {
-                "texto": "a) Longitud",
-                "correcta": false
-            },
-            {
-                "texto": "b) Velocidad",
-                "correcta": false
-            },
-            {
-                "texto": "c) Pérdida de carga",
-                "correcta": true
-            },
-            {
-                "texto": "d) Diámetro",
-                "correcta": false
-            }
-        ]
-    },
-    {
-        "capitulo": 1,
-        "pregunta": "¿Qué define a un sistema de tuberías en paralelo?",
-        "opciones": [
-            {
-                "texto": "a) Tienen presiones diferentes en cada extremo",
-                "correcta": false
-            },
-            {
-                "texto": "b) Todas las tuberías son de igual diámetro",
-                "correcta": false
-            },
-            {
-                "texto": "c) Comparten nodos de entrada y salida, con presión igual",
-                "correcta": true
-            },
-            {
-                "texto": "d) Solo puede haber dos ramas paralelas",
-                "correcta": false
-            }
-        ]
-    },
-    {
-        "capitulo": 1,
-        "pregunta": "¿Qué es una red cerrada de tuberías?",
-        "opciones": [
-            {
-                "texto": "a) Red sin salida",
-                "correcta": false
-            },
-            {
-                "texto": "b) Conexiones en T que no retornan",
-                "correcta": false
-            },
-            {
-                "texto": "c) Sistema con flujo unidireccional",
-                "correcta": false
-            },
-            {
-                "texto": "d) Sistema con lazos interconectados que permiten flujo en varios sentidos",
+                "texto": "d) Reduce significativamente las pérdidas de carga \\textbf{()}",
                 "correcta": true
             }
         ]
     },
     {
         "capitulo": 1,
-        "pregunta": "¿Qué condición se cumple entre entrada y salida en paralelo?",
+        "pregunta": "¿Qué pasa si en una red cerrada se omite una pérdida menor significativa?",
         "opciones": [
             {
-                "texto": "a) Misma velocidad",
+                "texto": "a) Nada, se compensa con la presión restante",
                 "correcta": false
             },
             {
-                "texto": "b) Misma viscosidad",
+                "texto": "b) Se incrementa el caudal",
                 "correcta": false
             },
             {
-                "texto": "c) Misma pérdida de carga",
-                "correcta": true
-            },
-            {
-                "texto": "d) Mismo número de Reynolds",
-                "correcta": false
-            }
-        ]
-    },
-    {
-        "capitulo": 1,
-        "pregunta": "¿Qué relación de caudales se cumple?",
-        "opciones": [
-            {
-                "texto": "a) Q1 = Q2 = Q3",
+                "texto": "c) Se reduce el tiempo de llenado",
                 "correcta": false
             },
             {
-                "texto": "b) Q_total = Q1 + Q2 + Q3 + ...",
-                "correcta": true
-            },
-            {
-                "texto": "c) Todas las ramas tienen igual caudal",
-                "correcta": false
-            },
-            {
-                "texto": "d) Caudal total se divide solo por 2",
-                "correcta": false
-            }
-        ]
-    },
-    {
-        "capitulo": 1,
-        "pregunta": "¿Cuál es la ecuación de Darcy-Weisbach?",
-        "opciones": [
-            {
-                "texto": "a) hf = kLQ",
-                "correcta": false
-            },
-            {
-                "texto": "b) hf = f·(L/D)·(V²/2g)",
-                "correcta": true
-            },
-            {
-                "texto": "c) hf = Q/A",
-                "correcta": false
-            },
-            {
-                "texto": "d) hf = ρgh",
-                "correcta": false
-            }
-        ]
-    },
-    {
-        "capitulo": 1,
-        "pregunta": "¿Qué variable NO afecta directamente el hf?",
-        "opciones": [
-            {
-                "texto": "a) Diámetro",
-                "correcta": false
-            },
-            {
-                "texto": "b) Longitud",
-                "correcta": false
-            },
-            {
-                "texto": "c) Color del tubo",
-                "correcta": true
-            },
-            {
-                "texto": "d) Velocidad",
-                "correcta": false
-            }
-        ]
-    },
-    {
-        "capitulo": 1,
-        "pregunta": "¿Qué representa el factor de fricción f?",
-        "opciones": [
-            {
-                "texto": "a) Resistencia térmica",
-                "correcta": false
-            },
-            {
-                "texto": "b) Relación entre presión y caudal",
-                "correcta": false
-            },
-            {
-                "texto": "c) Resistencia al flujo debido a fricción interna",
-                "correcta": true
-            },
-            {
-                "texto": "d) Área hidráulica",
-                "correcta": false
-            }
-        ]
-    },
-    {
-        "capitulo": 1,
-        "pregunta": "¿Qué número clasifica el régimen de flujo?",
-        "opciones": [
-            {
-                "texto": "a) Nusselt",
-                "correcta": false
-            },
-            {
-                "texto": "b) Prandtl",
-                "correcta": false
-            },
-            {
-                "texto": "c) Reynolds",
-                "correcta": true
-            },
-            {
-                "texto": "d) Euler",
-                "correcta": false
-            }
-        ]
-    },
-    {
-        "capitulo": 1,
-        "pregunta": "¿Cuál método no sirve para calcular f?",
-        "opciones": [
-            {
-                "texto": "a) Colebrook",
-                "correcta": false
-            },
-            {
-                "texto": "b) Swamee-Jain",
-                "correcta": false
-            },
-            {
-                "texto": "c) Hazen-Williams",
-                "correcta": true
-            },
-            {
-                "texto": "d) Moody",
-                "correcta": false
-            }
-        ]
-    },
-    {
-        "capitulo": 1,
-        "pregunta": "¿Qué condición se iguala en ramas paralelas?",
-        "opciones": [
-            {
-                "texto": "a) Longitud",
-                "correcta": false
-            },
-            {
-                "texto": "b) Velocidad",
-                "correcta": false
-            },
-            {
-                "texto": "c) Pérdida de carga",
-                "correcta": true
-            },
-            {
-                "texto": "d) Diámetro",
-                "correcta": false
-            }
-        ]
-    },
-    {
-        "capitulo": 1,
-        "pregunta": "¿Qué define a un sistema de tuberías en paralelo?",
-        "opciones": [
-            {
-                "texto": "a) Tienen presiones diferentes en cada extremo",
-                "correcta": false
-            },
-            {
-                "texto": "b) Todas las tuberías son de igual diámetro",
-                "correcta": false
-            },
-            {
-                "texto": "c) Comparten nodos de entrada y salida, con presión igual",
-                "correcta": true
-            },
-            {
-                "texto": "d) Solo puede haber dos ramas paralelas",
-                "correcta": false
-            }
-        ]
-    },
-    {
-        "capitulo": 1,
-        "pregunta": "¿Qué es una red cerrada de tuberías?",
-        "opciones": [
-            {
-                "texto": "a) Red sin salida",
-                "correcta": false
-            },
-            {
-                "texto": "b) Conexiones en T que no retornan",
-                "correcta": false
-            },
-            {
-                "texto": "c) Sistema con flujo unidireccional",
-                "correcta": false
-            },
-            {
-                "texto": "d) Sistema con lazos interconectados que permiten flujo en varios sentidos",
+                "texto": "d) Se desbalancea el sistema y puede provocar errores \\textbf{()}",
                 "correcta": true
             }
         ]
     },
     {
         "capitulo": 1,
-        "pregunta": "¿Qué condición se cumple entre entrada y salida en paralelo?",
+        "pregunta": "¿Cuál es el significado físico de que la suma de pérdidas en un lazo sea cero?",
         "opciones": [
             {
-                "texto": "a) Misma velocidad",
+                "texto": "a) No hay flujo",
                 "correcta": false
             },
             {
-                "texto": "b) Misma viscosidad",
+                "texto": "b) La red está mal diseñada",
                 "correcta": false
             },
             {
-                "texto": "c) Misma pérdida de carga",
-                "correcta": true
-            },
-            {
-                "texto": "d) Mismo número de Reynolds",
-                "correcta": false
-            }
-        ]
-    },
-    {
-        "capitulo": 1,
-        "pregunta": "¿Qué relación de caudales se cumple?",
-        "opciones": [
-            {
-                "texto": "a) Q1 = Q2 = Q3",
+                "texto": "c) Hay fuga de presión",
                 "correcta": false
             },
             {
-                "texto": "b) Q_total = Q1 + Q2 + Q3 + ...",
-                "correcta": true
-            },
-            {
-                "texto": "c) Todas las ramas tienen igual caudal",
-                "correcta": false
-            },
-            {
-                "texto": "d) Caudal total se divide solo por 2",
-                "correcta": false
-            }
-        ]
-    },
-    {
-        "capitulo": 1,
-        "pregunta": "¿Cuál es la ecuación de Darcy-Weisbach?",
-        "opciones": [
-            {
-                "texto": "a) hf = kLQ",
-                "correcta": false
-            },
-            {
-                "texto": "b) hf = f·(L/D)·(V²/2g)",
-                "correcta": true
-            },
-            {
-                "texto": "c) hf = Q/A",
-                "correcta": false
-            },
-            {
-                "texto": "d) hf = ρgh",
-                "correcta": false
-            }
-        ]
-    },
-    {
-        "capitulo": 1,
-        "pregunta": "¿Qué variable NO afecta directamente el hf?",
-        "opciones": [
-            {
-                "texto": "a) Diámetro",
-                "correcta": false
-            },
-            {
-                "texto": "b) Longitud",
-                "correcta": false
-            },
-            {
-                "texto": "c) Color del tubo",
-                "correcta": true
-            },
-            {
-                "texto": "d) Velocidad",
-                "correcta": false
-            }
-        ]
-    },
-    {
-        "capitulo": 1,
-        "pregunta": "¿Qué representa el factor de fricción f?",
-        "opciones": [
-            {
-                "texto": "a) Resistencia térmica",
-                "correcta": false
-            },
-            {
-                "texto": "b) Relación entre presión y caudal",
-                "correcta": false
-            },
-            {
-                "texto": "c) Resistencia al flujo debido a fricción interna",
-                "correcta": true
-            },
-            {
-                "texto": "d) Área hidráulica",
-                "correcta": false
-            }
-        ]
-    },
-    {
-        "capitulo": 1,
-        "pregunta": "¿Qué número clasifica el régimen de flujo?",
-        "opciones": [
-            {
-                "texto": "a) Nusselt",
-                "correcta": false
-            },
-            {
-                "texto": "b) Prandtl",
-                "correcta": false
-            },
-            {
-                "texto": "c) Reynolds",
-                "correcta": true
-            },
-            {
-                "texto": "d) Euler",
-                "correcta": false
-            }
-        ]
-    },
-    {
-        "capitulo": 1,
-        "pregunta": "¿Cuál método no sirve para calcular f?",
-        "opciones": [
-            {
-                "texto": "a) Colebrook",
-                "correcta": false
-            },
-            {
-                "texto": "b) Swamee-Jain",
-                "correcta": false
-            },
-            {
-                "texto": "c) Hazen-Williams",
-                "correcta": true
-            },
-            {
-                "texto": "d) Moody",
-                "correcta": false
-            }
-        ]
-    },
-    {
-        "capitulo": 1,
-        "pregunta": "¿Qué condición se iguala en ramas paralelas?",
-        "opciones": [
-            {
-                "texto": "a) Longitud",
-                "correcta": false
-            },
-            {
-                "texto": "b) Velocidad",
-                "correcta": false
-            },
-            {
-                "texto": "c) Pérdida de carga",
-                "correcta": true
-            },
-            {
-                "texto": "d) Diámetro",
-                "correcta": false
-            }
-        ]
-    },
-    {
-        "capitulo": 1,
-        "pregunta": "¿Qué define a un sistema de tuberías en paralelo?",
-        "opciones": [
-            {
-                "texto": "a) Tienen presiones diferentes en cada extremo",
-                "correcta": false
-            },
-            {
-                "texto": "b) Todas las tuberías son de igual diámetro",
-                "correcta": false
-            },
-            {
-                "texto": "c) Comparten nodos de entrada y salida, con presión igual",
-                "correcta": true
-            },
-            {
-                "texto": "d) Solo puede haber dos ramas paralelas",
-                "correcta": false
-            }
-        ]
-    },
-    {
-        "capitulo": 1,
-        "pregunta": "¿Qué es una red cerrada de tuberías?",
-        "opciones": [
-            {
-                "texto": "a) Red sin salida",
-                "correcta": false
-            },
-            {
-                "texto": "b) Conexiones en T que no retornan",
-                "correcta": false
-            },
-            {
-                "texto": "c) Sistema con flujo unidireccional",
-                "correcta": false
-            },
-            {
-                "texto": "d) Sistema con lazos interconectados que permiten flujo en varios sentidos",
+                "texto": "d) El lazo está en equilibrio energético \\textbf{()}",
                 "correcta": true
             }
         ]
     },
     {
         "capitulo": 1,
-        "pregunta": "¿Qué condición se cumple entre entrada y salida en paralelo?",
+        "pregunta": "¿Qué sucede si dos ramas en paralelo tienen diferente longitud pero igual diámetro y rugosidad?",
         "opciones": [
             {
-                "texto": "a) Misma velocidad",
+                "texto": "a) Transportan el mismo caudal",
                 "correcta": false
             },
             {
-                "texto": "b) Misma viscosidad",
-                "correcta": false
-            },
-            {
-                "texto": "c) Misma pérdida de carga",
+                "texto": "b) La más corta transporta más caudal \\textbf{()}",
                 "correcta": true
             },
             {
-                "texto": "d) Mismo número de Reynolds",
+                "texto": "c) La más larga transporta más caudal",
+                "correcta": false
+            },
+            {
+                "texto": "d) Ninguna transporta caudal",
                 "correcta": false
             }
         ]
     },
     {
         "capitulo": 1,
-        "pregunta": "¿Qué relación de caudales se cumple?",
+        "pregunta": "¿Cómo afecta un accesorio mal calculado (con K mayor) a una rama?",
         "opciones": [
             {
-                "texto": "a) Q1 = Q2 = Q3",
+                "texto": "a) Aumenta su caudal",
                 "correcta": false
             },
             {
-                "texto": "b) Q_total = Q1 + Q2 + Q3 + ...",
+                "texto": "b) Disminuye su pérdida menor",
+                "correcta": false
+            },
+            {
+                "texto": "c) Disminuye su caudal por mayor resistencia \\textbf{()}",
                 "correcta": true
             },
             {
-                "texto": "c) Todas las ramas tienen igual caudal",
-                "correcta": false
-            },
-            {
-                "texto": "d) Caudal total se divide solo por 2",
+                "texto": "d) No tiene efecto",
                 "correcta": false
             }
         ]
     },
     {
         "capitulo": 1,
-        "pregunta": "¿Cuál es la ecuación de Darcy-Weisbach?",
+        "pregunta": "¿Qué expresa el término \\( \\frac{V^2}{2g} \\) en hidráulica?",
         "opciones": [
             {
-                "texto": "a) hf = kLQ",
+                "texto": "a) Altura de presión estática",
                 "correcta": false
             },
             {
-                "texto": "b) hf = f·(L/D)·(V²/2g)",
-                "correcta": true
-            },
-            {
-                "texto": "c) hf = Q/A",
+                "texto": "b) Altura geodésica",
                 "correcta": false
             },
             {
-                "texto": "d) hf = ρgh",
-                "correcta": false
-            }
-        ]
-    },
-    {
-        "capitulo": 1,
-        "pregunta": "¿Qué variable NO afecta directamente el hf?",
-        "opciones": [
-            {
-                "texto": "a) Diámetro",
+                "texto": "c) Altura piezométrica",
                 "correcta": false
             },
             {
-                "texto": "b) Longitud",
-                "correcta": false
-            },
-            {
-                "texto": "c) Color del tubo",
-                "correcta": true
-            },
-            {
-                "texto": "d) Velocidad",
-                "correcta": false
-            }
-        ]
-    },
-    {
-        "capitulo": 1,
-        "pregunta": "¿Qué representa el factor de fricción f?",
-        "opciones": [
-            {
-                "texto": "a) Resistencia térmica",
-                "correcta": false
-            },
-            {
-                "texto": "b) Relación entre presión y caudal",
-                "correcta": false
-            },
-            {
-                "texto": "c) Resistencia al flujo debido a fricción interna",
-                "correcta": true
-            },
-            {
-                "texto": "d) Área hidráulica",
-                "correcta": false
-            }
-        ]
-    },
-    {
-        "capitulo": 1,
-        "pregunta": "¿Qué número clasifica el régimen de flujo?",
-        "opciones": [
-            {
-                "texto": "a) Nusselt",
-                "correcta": false
-            },
-            {
-                "texto": "b) Prandtl",
-                "correcta": false
-            },
-            {
-                "texto": "c) Reynolds",
-                "correcta": true
-            },
-            {
-                "texto": "d) Euler",
-                "correcta": false
-            }
-        ]
-    },
-    {
-        "capitulo": 1,
-        "pregunta": "¿Cuál método no sirve para calcular f?",
-        "opciones": [
-            {
-                "texto": "a) Colebrook",
-                "correcta": false
-            },
-            {
-                "texto": "b) Swamee-Jain",
-                "correcta": false
-            },
-            {
-                "texto": "c) Hazen-Williams",
-                "correcta": true
-            },
-            {
-                "texto": "d) Moody",
-                "correcta": false
-            }
-        ]
-    },
-    {
-        "capitulo": 1,
-        "pregunta": "¿Qué condición se iguala en ramas paralelas?",
-        "opciones": [
-            {
-                "texto": "a) Longitud",
-                "correcta": false
-            },
-            {
-                "texto": "b) Velocidad",
-                "correcta": false
-            },
-            {
-                "texto": "c) Pérdida de carga",
-                "correcta": true
-            },
-            {
-                "texto": "d) Diámetro",
-                "correcta": false
-            }
-        ]
-    },
-    {
-        "capitulo": 1,
-        "pregunta": "¿Qué define a un sistema de tuberías en paralelo?",
-        "opciones": [
-            {
-                "texto": "a) Tienen presiones diferentes en cada extremo",
-                "correcta": false
-            },
-            {
-                "texto": "b) Todas las tuberías son de igual diámetro",
-                "correcta": false
-            },
-            {
-                "texto": "c) Comparten nodos de entrada y salida, con presión igual",
-                "correcta": true
-            },
-            {
-                "texto": "d) Solo puede haber dos ramas paralelas",
-                "correcta": false
-            }
-        ]
-    },
-    {
-        "capitulo": 1,
-        "pregunta": "¿Qué es una red cerrada de tuberías?",
-        "opciones": [
-            {
-                "texto": "a) Red sin salida",
-                "correcta": false
-            },
-            {
-                "texto": "b) Conexiones en T que no retornan",
-                "correcta": false
-            },
-            {
-                "texto": "c) Sistema con flujo unidireccional",
-                "correcta": false
-            },
-            {
-                "texto": "d) Sistema con lazos interconectados que permiten flujo en varios sentidos",
+                "texto": "d) Altura de velocidad \\textbf{()}",
                 "correcta": true
             }
         ]
     },
     {
         "capitulo": 1,
-        "pregunta": "¿Qué condición se cumple entre entrada y salida en paralelo?",
+        "pregunta": "¿Qué significa un número de Reynolds entre 2300 y 4000?",
         "opciones": [
             {
-                "texto": "a) Misma velocidad",
+                "texto": "a) Flujo laminar",
                 "correcta": false
             },
             {
-                "texto": "b) Misma viscosidad",
+                "texto": "b) Flujo turbulento",
                 "correcta": false
             },
             {
-                "texto": "c) Misma pérdida de carga",
+                "texto": "c) Zona de transición \\textbf{()}",
                 "correcta": true
             },
             {
-                "texto": "d) Mismo número de Reynolds",
+                "texto": "d) No hay flujo",
                 "correcta": false
             }
         ]
     },
     {
         "capitulo": 1,
-        "pregunta": "¿Qué relación de caudales se cumple?",
+        "pregunta": "¿Cuál es el riesgo principal en asumir mal el sentido del flujo en redes cerradas?",
         "opciones": [
             {
-                "texto": "a) Q1 = Q2 = Q3",
+                "texto": "a) Incremento de presión en nodos",
                 "correcta": false
             },
             {
-                "texto": "b) Q_total = Q1 + Q2 + Q3 + ...",
+                "texto": "b) Cálculo erróneo de pérdida total",
+                "correcta": false
+            },
+            {
+                "texto": "c) Ninguno, se corrige con el signo del resultado \\textbf{()}",
                 "correcta": true
             },
             {
-                "texto": "c) Todas las ramas tienen igual caudal",
-                "correcta": false
-            },
-            {
-                "texto": "d) Caudal total se divide solo por 2",
+                "texto": "d) Colapso estructural del tubo",
                 "correcta": false
             }
         ]
     },
     {
         "capitulo": 1,
-        "pregunta": "¿Cuál es la ecuación de Darcy-Weisbach?",
+        "pregunta": "¿Qué unidad se utiliza comúnmente para medir caudal en sistemas hidráulicos urbanos?",
         "opciones": [
             {
-                "texto": "a) hf = kLQ",
+                "texto": "a) m³/h",
                 "correcta": false
             },
             {
-                "texto": "b) hf = f·(L/D)·(V²/2g)",
+                "texto": "b) L/hab·día",
+                "correcta": false
+            },
+            {
+                "texto": "c) kg/s",
+                "correcta": false
+            },
+            {
+                "texto": "d) L/s \\textbf{()}",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
+        "pregunta": "¿Qué ocurre si no se consideran adecuadamente los factores de mayoración en diseño de caudales?",
+        "opciones": [
+            {
+                "texto": "a) La red será más robusta",
+                "correcta": false
+            },
+            {
+                "texto": "b) La red tendrá pérdidas innecesarias",
+                "correcta": false
+            },
+            {
+                "texto": "c) Se sobredimensiona sin riesgo",
+                "correcta": false
+            },
+            {
+                "texto": "d) Podrán faltar presiones o caudal en condiciones reales \\textbf{()}",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
+        "pregunta": "¿Qué valor numérico puede tomar un buen factor de mayoración diario (Kmáx.d)?",
+        "opciones": [
+            {
+                "texto": "a) 0.85",
+                "correcta": false
+            },
+            {
+                "texto": "b) 1.2 a 1.6 \\textbf{()}",
                 "correcta": true
             },
             {
-                "texto": "c) hf = Q/A",
+                "texto": "c) 2.5",
                 "correcta": false
             },
             {
-                "texto": "d) hf = ρgh",
+                "texto": "d) 0.45",
                 "correcta": false
             }
         ]
     },
     {
         "capitulo": 1,
-        "pregunta": "¿Qué variable NO afecta directamente el hf?",
+        "pregunta": "¿Para qué se usa el caudal máximo horario?",
         "opciones": [
             {
-                "texto": "a) Diámetro",
+                "texto": "a) Dimensionar fuentes de captación",
                 "correcta": false
             },
             {
-                "texto": "b) Longitud",
-                "correcta": false
-            },
-            {
-                "texto": "c) Color del tubo",
+                "texto": "b) Dimensionar redes de distribución durante la hora pico \\textbf{()}",
                 "correcta": true
             },
             {
-                "texto": "d) Velocidad",
+                "texto": "c) Calcular pérdidas menores",
+                "correcta": false
+            },
+            {
+                "texto": "d) Diseñar tanques de almacenamiento",
                 "correcta": false
             }
         ]
     },
     {
         "capitulo": 1,
-        "pregunta": "¿Qué representa el factor de fricción f?",
+        "pregunta": "¿Qué sucede si en un análisis Hardy-Cross se ignoran las pérdidas menores?",
         "opciones": [
             {
-                "texto": "a) Resistencia térmica",
+                "texto": "a) El resultado mejora",
                 "correcta": false
             },
             {
-                "texto": "b) Relación entre presión y caudal",
+                "texto": "b) No se afecta nada",
                 "correcta": false
             },
             {
-                "texto": "c) Resistencia al flujo debido a fricción interna",
+                "texto": "c) Se infraestima el desequilibrio del lazo \\textbf{()}",
                 "correcta": true
             },
             {
-                "texto": "d) Área hidráulica",
+                "texto": "d) Se sobreestima el caudal",
                 "correcta": false
             }
         ]
     },
     {
         "capitulo": 1,
-        "pregunta": "¿Qué número clasifica el régimen de flujo?",
+        "pregunta": "¿Qué pasa si dos tuberías tienen igual pérdida pero diferente caudal?",
         "opciones": [
             {
-                "texto": "a) Nusselt",
+                "texto": "a) Hay un error de cálculo",
                 "correcta": false
             },
             {
-                "texto": "b) Prandtl",
+                "texto": "b) El flujo no es paralelo",
                 "correcta": false
             },
             {
-                "texto": "c) Reynolds",
+                "texto": "c) El flujo es laminar en una y turbulento en otra",
+                "correcta": false
+            },
+            {
+                "texto": "d) Las longitudes o rugosidades son diferentes \\textbf{()}",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
+        "pregunta": "¿Qué relación existe entre el diámetro y la velocidad en flujo constante?",
+        "opciones": [
+            {
+                "texto": "a) Mayor diámetro, menor velocidad \\textbf{()}",
                 "correcta": true
             },
             {
-                "texto": "d) Euler",
+                "texto": "b) Mayor diámetro, mayor velocidad",
+                "correcta": false
+            },
+            {
+                "texto": "c) Velocidad constante",
+                "correcta": false
+            },
+            {
+                "texto": "d) Velocidad depende solo del caudal",
                 "correcta": false
             }
         ]
     },
     {
         "capitulo": 1,
-        "pregunta": "¿Cuál método no sirve para calcular f?",
+        "pregunta": "¿Qué implica un lazo con \\( \\sum h_f \\neq 0 \\) después de varias iteraciones?",
         "opciones": [
             {
-                "texto": "a) Colebrook",
+                "texto": "a) Flujo uniforme",
                 "correcta": false
             },
             {
-                "texto": "b) Swamee-Jain",
-                "correcta": false
-            },
-            {
-                "texto": "c) Hazen-Williams",
+                "texto": "b) Falta más iteración o hay error \\textbf{()}",
                 "correcta": true
             },
             {
-                "texto": "d) Moody",
+                "texto": "c) Red balanceada",
+                "correcta": false
+            },
+            {
+                "texto": "d) No hay flujo",
                 "correcta": false
             }
         ]
     },
     {
         "capitulo": 1,
-        "pregunta": "¿Qué condición se iguala en ramas paralelas?",
+        "pregunta": "¿Cuál es la fórmula del caudal a partir de la velocidad y el área?",
         "opciones": [
             {
-                "texto": "a) Longitud",
+                "texto": "a) Q = A/V",
                 "correcta": false
             },
             {
-                "texto": "b) Velocidad",
-                "correcta": false
-            },
-            {
-                "texto": "c) Pérdida de carga",
+                "texto": "b) Q = AV \\textbf{()}",
                 "correcta": true
             },
             {
-                "texto": "d) Diámetro",
+                "texto": "c) Q = V/A",
+                "correcta": false
+            },
+            {
+                "texto": "d) Q = D · V",
                 "correcta": false
             }
         ]
     },
     {
         "capitulo": 1,
-        "pregunta": "¿Cuál de las siguientes afirmaciones es CORRECTA respecto al uso de los caudales Qm, Qmáx diario y Qmáx horario en el diseño de sistemas de agua potable?",
+        "pregunta": "¿En qué caso es útil el método Hardy-Cross?",
         "opciones": [
             {
-                "texto": "a) El caudal máximo diario se utiliza exclusivamente para calcular presiones mínimas en las redes de distribución.",
+                "texto": "a) Tuberías en serie",
                 "correcta": false
             },
             {
-                "texto": "b) El caudal máximo horario se utiliza para dimensionar aducciones y líneas de conducción de largo alcance.",
+                "texto": "b) Redes con válvulas abiertas únicamente",
                 "correcta": false
             },
             {
-                "texto": "c) El caudal medio se utiliza para dimensionar tanques de almacenamiento para la hora pico.",
+                "texto": "c) Redes complejas con múltiples lazos \\textbf{()}",
+                "correcta": true
+            },
+            {
+                "texto": "d) Cálculo de pérdidas menores",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
+        "pregunta": "¿Cuál es el uso del caudal medio diario?",
+        "opciones": [
+            {
+                "texto": "a) Dimensionar redes pico",
                 "correcta": false
             },
             {
-                "texto": "d) El caudal máximo diario se emplea para el diseño de captación y líneas principales de conducción.",
+                "texto": "b) Diseñar presiones mínimas",
+                "correcta": false
+            },
+            {
+                "texto": "c) Estimación básica del sistema \\textbf{()}",
+                "correcta": true
+            },
+            {
+                "texto": "d) Evaluar pérdida menor",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
+        "pregunta": "¿Cuál afirmación es CORRECTA sobre Qm, Qmáx diario y Qmáx horario?",
+        "opciones": [
+            {
+                "texto": "a) El Qmáx diario se usa solo para redes de distribución",
+                "correcta": false
+            },
+            {
+                "texto": "b) El Qmáx horario dimensiona líneas de captación",
+                "correcta": false
+            },
+            {
+                "texto": "c) El Qmedio se usa para caudal pico",
+                "correcta": false
+            },
+            {
+                "texto": "d) El Qmáx diario se usa para captación y conducción principal \\textbf{()}",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "capitulo": 1,
+        "pregunta": "¿Cuál afirmación es CORRECTA sobre \\( Q_m \\), \\( Q_{\\text{máx diario}} \\) y \\( Q_{\\text{máx horario}} \\)?",
+        "opciones": [
+            {
+                "texto": "a) El \\( Q_{\\text{máx diario}} \\) se usa solo para redes de distribución",
+                "correcta": false
+            },
+            {
+                "texto": "b) El \\( Q_{\\text{máx horario}} \\) dimensiona líneas de captación",
+                "correcta": false
+            },
+            {
+                "texto": "c) El \\( Q_m \\) se usa para caudal pico",
+                "correcta": false
+            },
+            {
+                "texto": "d) El \\( Q_{\\text{máx diario}} \\) se usa para captación y conducción principal \\textbf{()}",
                 "correcta": true
             }
         ]
