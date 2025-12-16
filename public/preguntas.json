@@ -8,7 +8,7 @@
                 "correcta": false
             },
             {
-                "texto": "b) Error en reparto de caudal \\textbf{()}",
+                "texto": "b) Error en reparto de caudal (✓)",
                 "correcta": true
             },
             {
@@ -30,7 +30,7 @@
                 "correcta": false
             },
             {
-                "texto": "b) Pérdida de carga se duplica \\textbf{()}",
+                "texto": "b) Pérdida de carga se duplica (✓)",
                 "correcta": true
             },
             {
@@ -48,7 +48,7 @@
         "pregunta": "¿Qué expresa la ecuación de continuidad?",
         "opciones": [
             {
-                "texto": "a) La masa no se crea ni destruye \\textbf{()}",
+                "texto": "a) La masa no se crea ni destruye (✓)",
                 "correcta": true
             },
             {
@@ -74,7 +74,7 @@
                 "correcta": false
             },
             {
-                "texto": "b) Recalcular todos los caudales desde cero \\textbf{()}",
+                "texto": "b) Recalcular todos los caudales desde cero (✓)",
                 "correcta": true
             },
             {
@@ -100,7 +100,7 @@
                 "correcta": false
             },
             {
-                "texto": "c) Cuando |∑hf| < 0.01 m \\textbf{()}",
+                "texto": "c) Cuando |∑hf| < 0.01 m (✓)",
                 "correcta": true
             },
             {
@@ -118,7 +118,7 @@
                 "correcta": false
             },
             {
-                "texto": "b) Diámetro (por ser elevado a una potencia alta) \\textbf{()}",
+                "texto": "b) Diámetro (por ser elevado a una potencia alta) (✓)",
                 "correcta": true
             },
             {
@@ -140,7 +140,7 @@
                 "correcta": false
             },
             {
-                "texto": "b) Sentido real del flujo es opuesto al asumido \\textbf{()}",
+                "texto": "b) Sentido real del flujo es opuesto al asumido (✓)",
                 "correcta": true
             },
             {
@@ -166,7 +166,7 @@
                 "correcta": false
             },
             {
-                "texto": "c) hf = 10.67·(L/C^1.85)·(Q^1.85/D^4.87) \\textbf{()}",
+                "texto": "c) hf = 10.67·(L/C^1.85)·(Q^1.85/D^4.87) (✓)",
                 "correcta": true
             },
             {
@@ -188,7 +188,7 @@
                 "correcta": false
             },
             {
-                "texto": "c) Determinar tipo de flujo \\textbf{()}",
+                "texto": "c) Determinar tipo de flujo (✓)",
                 "correcta": true
             },
             {
@@ -214,7 +214,7 @@
                 "correcta": false
             },
             {
-                "texto": "d) Reduce significativamente las pérdidas de carga \\textbf{()}",
+                "texto": "d) Reduce significativamente las pérdidas de carga (✓)",
                 "correcta": true
             }
         ]
@@ -236,7 +236,7 @@
                 "correcta": false
             },
             {
-                "texto": "d) Se desbalancea el sistema y puede provocar errores \\textbf{()}",
+                "texto": "d) Se desbalancea el sistema y puede provocar errores (✓)",
                 "correcta": true
             }
         ]
@@ -258,7 +258,7 @@
                 "correcta": false
             },
             {
-                "texto": "d) El lazo está en equilibrio energético \\textbf{()}",
+                "texto": "d) El lazo está en equilibrio energético (✓)",
                 "correcta": true
             }
         ]
@@ -272,7 +272,7 @@
                 "correcta": false
             },
             {
-                "texto": "b) La más corta transporta más caudal \\textbf{()}",
+                "texto": "b) La más corta transporta más caudal (✓)",
                 "correcta": true
             },
             {
@@ -298,7 +298,7 @@
                 "correcta": false
             },
             {
-                "texto": "c) Disminuye su caudal por mayor resistencia \\textbf{()}",
+                "texto": "c) Disminuye su caudal por mayor resistencia (✓)",
                 "correcta": true
             },
             {
@@ -309,7 +309,7 @@
     },
     {
         "capitulo": 1,
-        "pregunta": "¿Qué expresa el término \\( \\frac{V^2}{2g} \\) en hidráulica?",
+        "pregunta": "¿Qué expresa el término \\fracV^22g en hidráulica?",
         "opciones": [
             {
                 "texto": "a) Altura de presión estática",
@@ -324,7 +324,7 @@
                 "correcta": false
             },
             {
-                "texto": "d) Altura de velocidad \\textbf{()}",
+                "texto": "d) Altura de velocidad (✓)",
                 "correcta": true
             }
         ]
@@ -342,7 +342,7 @@
                 "correcta": false
             },
             {
-                "texto": "c) Zona de transición \\textbf{()}",
+                "texto": "c) Zona de transición (✓)",
                 "correcta": true
             },
             {
@@ -364,7 +364,7 @@
                 "correcta": false
             },
             {
-                "texto": "c) Ninguno, se corrige con el signo del resultado \\textbf{()}",
+                "texto": "c) Ninguno, se corrige con el signo del resultado (✓)",
                 "correcta": true
             },
             {
@@ -390,7 +390,7 @@
                 "correcta": false
             },
             {
-                "texto": "d) L/s \\textbf{()}",
+                "texto": "d) L/s (✓)",
                 "correcta": true
             }
         ]
@@ -412,7 +412,7 @@
                 "correcta": false
             },
             {
-                "texto": "d) Podrán faltar presiones o caudal en condiciones reales \\textbf{()}",
+                "texto": "d) Podrán faltar presiones o caudal en condiciones reales (✓)",
                 "correcta": true
             }
         ]
@@ -426,7 +426,7 @@
                 "correcta": false
             },
             {
-                "texto": "b) 1.2 a 1.6 \\textbf{()}",
+                "texto": "b) 1.2 a 1.6 (✓)",
                 "correcta": true
             },
             {
@@ -448,7 +448,7 @@
                 "correcta": false
             },
             {
-                "texto": "b) Dimensionar redes de distribución durante la hora pico \\textbf{()}",
+                "texto": "b) Dimensionar redes de distribución durante la hora pico (✓)",
                 "correcta": true
             },
             {
@@ -474,7 +474,7 @@
                 "correcta": false
             },
             {
-                "texto": "c) Se infraestima el desequilibrio del lazo \\textbf{()}",
+                "texto": "c) Se infraestima el desequilibrio del lazo (✓)",
                 "correcta": true
             },
             {
@@ -500,7 +500,7 @@
                 "correcta": false
             },
             {
-                "texto": "d) Las longitudes o rugosidades son diferentes \\textbf{()}",
+                "texto": "d) Las longitudes o rugosidades son diferentes (✓)",
                 "correcta": true
             }
         ]
@@ -510,7 +510,7 @@
         "pregunta": "¿Qué relación existe entre el diámetro y la velocidad en flujo constante?",
         "opciones": [
             {
-                "texto": "a) Mayor diámetro, menor velocidad \\textbf{()}",
+                "texto": "a) Mayor diámetro, menor velocidad (✓)",
                 "correcta": true
             },
             {
@@ -529,14 +529,14 @@
     },
     {
         "capitulo": 1,
-        "pregunta": "¿Qué implica un lazo con \\( \\sum h_f \\neq 0 \\) después de varias iteraciones?",
+        "pregunta": "¿Qué implica un lazo con \\sum h_f \\neq 0 después de varias iteraciones?",
         "opciones": [
             {
                 "texto": "a) Flujo uniforme",
                 "correcta": false
             },
             {
-                "texto": "b) Falta más iteración o hay error \\textbf{()}",
+                "texto": "b) Falta más iteración o hay error (✓)",
                 "correcta": true
             },
             {
@@ -558,7 +558,7 @@
                 "correcta": false
             },
             {
-                "texto": "b) Q = AV \\textbf{()}",
+                "texto": "b) Q = AV (✓)",
                 "correcta": true
             },
             {
@@ -584,7 +584,7 @@
                 "correcta": false
             },
             {
-                "texto": "c) Redes complejas con múltiples lazos \\textbf{()}",
+                "texto": "c) Redes complejas con múltiples lazos (✓)",
                 "correcta": true
             },
             {
@@ -606,7 +606,7 @@
                 "correcta": false
             },
             {
-                "texto": "c) Estimación básica del sistema \\textbf{()}",
+                "texto": "c) Estimación básica del sistema (✓)",
                 "correcta": true
             },
             {
@@ -632,7 +632,7 @@
                 "correcta": false
             },
             {
-                "texto": "d) El Qmáx diario se usa para captación y conducción principal \\textbf{()}",
+                "texto": "d) El Qmáx diario se usa para captación y conducción principal (✓)",
                 "correcta": true
             }
         ]
@@ -650,7 +650,7 @@
                 "correcta": false
             },
             {
-                "texto": "c) Comparten nodos de entrada y salida, con presión igual \\textbf{()}",
+                "texto": "c) Comparten nodos de entrada y salida, con presión igual (✓)",
                 "correcta": true
             },
             {
@@ -676,7 +676,7 @@
                 "correcta": false
             },
             {
-                "texto": "d) Sistema con lazos interconectados que permiten flujo en varios sentidos \\textbf{()}",
+                "texto": "d) Sistema con lazos interconectados que permiten flujo en varios sentidos (✓)",
                 "correcta": true
             }
         ]
@@ -698,7 +698,7 @@
                 "correcta": false
             },
             {
-                "texto": "d) Reduce significativamente las pérdidas de carga \\textbf{()}",
+                "texto": "d) Reduce significativamente las pérdidas de carga (✓)",
                 "correcta": true
             }
         ]
@@ -720,7 +720,7 @@
                 "correcta": false
             },
             {
-                "texto": "d) Se desbalancea el sistema y puede provocar errores \\textbf{()}",
+                "texto": "d) Se desbalancea el sistema y puede provocar errores (✓)",
                 "correcta": true
             }
         ]
@@ -742,7 +742,7 @@
                 "correcta": false
             },
             {
-                "texto": "d) El lazo está en equilibrio energético \\textbf{()}",
+                "texto": "d) El lazo está en equilibrio energético (✓)",
                 "correcta": true
             }
         ]
@@ -756,7 +756,7 @@
                 "correcta": false
             },
             {
-                "texto": "b) La más corta transporta más caudal \\textbf{()}",
+                "texto": "b) La más corta transporta más caudal (✓)",
                 "correcta": true
             },
             {
@@ -782,7 +782,7 @@
                 "correcta": false
             },
             {
-                "texto": "c) Disminuye su caudal por mayor resistencia \\textbf{()}",
+                "texto": "c) Disminuye su caudal por mayor resistencia (✓)",
                 "correcta": true
             },
             {
@@ -793,7 +793,7 @@
     },
     {
         "capitulo": 1,
-        "pregunta": "¿Qué expresa el término \\( \\frac{V^2}{2g} \\) en hidráulica?",
+        "pregunta": "¿Qué expresa el término \\fracV^22g en hidráulica?",
         "opciones": [
             {
                 "texto": "a) Altura de presión estática",
@@ -808,7 +808,7 @@
                 "correcta": false
             },
             {
-                "texto": "d) Altura de velocidad \\textbf{()}",
+                "texto": "d) Altura de velocidad (✓)",
                 "correcta": true
             }
         ]
@@ -826,7 +826,7 @@
                 "correcta": false
             },
             {
-                "texto": "c) Zona de transición \\textbf{()}",
+                "texto": "c) Zona de transición (✓)",
                 "correcta": true
             },
             {
@@ -848,7 +848,7 @@
                 "correcta": false
             },
             {
-                "texto": "c) Ninguno, se corrige con el signo del resultado \\textbf{()}",
+                "texto": "c) Ninguno, se corrige con el signo del resultado (✓)",
                 "correcta": true
             },
             {
@@ -874,7 +874,7 @@
                 "correcta": false
             },
             {
-                "texto": "d) L/s \\textbf{()}",
+                "texto": "d) L/s (✓)",
                 "correcta": true
             }
         ]
@@ -896,7 +896,7 @@
                 "correcta": false
             },
             {
-                "texto": "d) Podrán faltar presiones o caudal en condiciones reales \\textbf{()}",
+                "texto": "d) Podrán faltar presiones o caudal en condiciones reales (✓)",
                 "correcta": true
             }
         ]
@@ -910,7 +910,7 @@
                 "correcta": false
             },
             {
-                "texto": "b) 1.2 a 1.6 \\textbf{()}",
+                "texto": "b) 1.2 a 1.6 (✓)",
                 "correcta": true
             },
             {
@@ -932,7 +932,7 @@
                 "correcta": false
             },
             {
-                "texto": "b) Dimensionar redes de distribución durante la hora pico \\textbf{()}",
+                "texto": "b) Dimensionar redes de distribución durante la hora pico (✓)",
                 "correcta": true
             },
             {
@@ -958,7 +958,7 @@
                 "correcta": false
             },
             {
-                "texto": "c) Se infraestima el desequilibrio del lazo \\textbf{()}",
+                "texto": "c) Se infraestima el desequilibrio del lazo (✓)",
                 "correcta": true
             },
             {
@@ -984,7 +984,7 @@
                 "correcta": false
             },
             {
-                "texto": "d) Las longitudes o rugosidades son diferentes \\textbf{()}",
+                "texto": "d) Las longitudes o rugosidades son diferentes (✓)",
                 "correcta": true
             }
         ]
@@ -994,7 +994,7 @@
         "pregunta": "¿Qué relación existe entre el diámetro y la velocidad en flujo constante?",
         "opciones": [
             {
-                "texto": "a) Mayor diámetro, menor velocidad \\textbf{()}",
+                "texto": "a) Mayor diámetro, menor velocidad (✓)",
                 "correcta": true
             },
             {
@@ -1013,14 +1013,14 @@
     },
     {
         "capitulo": 1,
-        "pregunta": "¿Qué implica un lazo con \\( \\sum h_f \\neq 0 \\) después de varias iteraciones?",
+        "pregunta": "¿Qué implica un lazo con \\sum h_f \\neq 0 después de varias iteraciones?",
         "opciones": [
             {
                 "texto": "a) Flujo uniforme",
                 "correcta": false
             },
             {
-                "texto": "b) Falta más iteración o hay error \\textbf{()}",
+                "texto": "b) Falta más iteración o hay error (✓)",
                 "correcta": true
             },
             {
@@ -1042,7 +1042,7 @@
                 "correcta": false
             },
             {
-                "texto": "b) Q = AV \\textbf{()}",
+                "texto": "b) Q = AV (✓)",
                 "correcta": true
             },
             {
@@ -1068,7 +1068,7 @@
                 "correcta": false
             },
             {
-                "texto": "c) Redes complejas con múltiples lazos \\textbf{()}",
+                "texto": "c) Redes complejas con múltiples lazos (✓)",
                 "correcta": true
             },
             {
@@ -1090,7 +1090,7 @@
                 "correcta": false
             },
             {
-                "texto": "c) Estimación básica del sistema \\textbf{()}",
+                "texto": "c) Estimación básica del sistema (✓)",
                 "correcta": true
             },
             {
@@ -1116,29 +1116,29 @@
                 "correcta": false
             },
             {
-                "texto": "d) El Qmáx diario se usa para captación y conducción principal \\textbf{()}",
+                "texto": "d) El Qmáx diario se usa para captación y conducción principal (✓)",
                 "correcta": true
             }
         ]
     },
     {
         "capitulo": 1,
-        "pregunta": "¿Cuál afirmación es CORRECTA sobre \\( Q_m \\), \\( Q_{\\text{máx diario}} \\) y \\( Q_{\\text{máx horario}} \\)?",
+        "pregunta": "¿Cuál afirmación es CORRECTA sobre Q_m , Q_\\textmáx diario y Q_\\textmáx horario ?",
         "opciones": [
             {
-                "texto": "a) El \\( Q_{\\text{máx diario}} \\) se usa solo para redes de distribución",
+                "texto": "a) El Q_\\textmáx diario se usa solo para redes de distribución",
                 "correcta": false
             },
             {
-                "texto": "b) El \\( Q_{\\text{máx horario}} \\) dimensiona líneas de captación",
+                "texto": "b) El Q_\\textmáx horario dimensiona líneas de captación",
                 "correcta": false
             },
             {
-                "texto": "c) El \\( Q_m \\) se usa para caudal pico",
+                "texto": "c) El Q_m se usa para caudal pico",
                 "correcta": false
             },
             {
-                "texto": "d) El \\( Q_{\\text{máx diario}} \\) se usa para captación y conducción principal \\textbf{()}",
+                "texto": "d) El Q_\\textmáx diario se usa para captación y conducción principal (✓)",
                 "correcta": true
             }
         ]
